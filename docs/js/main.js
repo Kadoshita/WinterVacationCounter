@@ -28,5 +28,5 @@ setInterval(function() {
 	if (countSec != 0) {
 		printData += countSec + '秒';
 	}
-	$('#count-data').html(printData);
+	$('#count-data').html('冬休み終了まであと<br>'+printData);
 },1000);
