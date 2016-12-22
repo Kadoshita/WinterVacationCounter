@@ -1,6 +1,6 @@
 body {
 	background-color: #6b92b9;
-	background-image: url(snow1.png), url(snow2.png), url(snow3.png);
+	background-image: url(../img/snow1.png), url(../img/snow2.png), url(../img/snow3.png);
 	-webkit-animation: snow 20s linear infinite;
 	animation: snow 20s linear infinite;
 	width: 300px;
