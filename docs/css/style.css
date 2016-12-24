@@ -3,7 +3,6 @@ body{
 	height: 100%;
 	padding-top: 10%;
 	background-image: url(../img/snow.gif);
-	/*display: inline-block;*/
 	background-size:cover;
 }
 #text-area{
