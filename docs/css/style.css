@@ -13,6 +13,8 @@ body{
 }
 #count-data{
 	font-size: 64px;
+	font-family: 'Aref Ruqaa', serif;
+	font-weight: bold;
 }
 
 @media screen and (max-width:1200px){
@@ -28,6 +30,8 @@ body{
 	}
 	#count-data{
 		font-size: 32px;
+		font-family: 'Aref Ruqaa', serif;
+		font-weight: bold;
 	}
 }
 
@@ -44,5 +48,7 @@ body{
 	}
 	#count-data{
 		font-size: 32px;
+		font-family: 'Aref Ruqaa', serif;
+		font-weight: bold;
 	}
 }
