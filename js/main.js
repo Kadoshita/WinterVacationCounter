@@ -2,7 +2,7 @@ setInterval(function() {
 	var date, countYear, Msec, countDay, countHour, countMin, countSec;
 	var printData = '';
 	date = new Date();
-	countYear = new Date(2017, 0, 9, 8, 50);
+	countYear = new Date(2017, 0, 10, 8, 50);
 	Msec = countYear.getTime() - date.getTime();
 
 	countDay=~~(Msec/(1000 * 60 * 60 * 24));
